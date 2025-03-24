@@ -1,7 +1,7 @@
 <h1 align="center">Hello World👋, I'm Md. Shahriar Islam Rifat</h1>
 <h3 align="center">I’m a recent graduate with a BSc in CSE🎓, passionate about building innovative solutions. I enjoy exploring new technologies 🌐 and applying them to real-world challenges.</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS & NodeJS**
 
 - 📫 How to reach me **shahriar7rifat@gmail.com**
 
