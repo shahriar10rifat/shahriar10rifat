@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)]
+![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <h1 align="center">Hello World👋, I'm Md. Shahriar Islam Rifat</h1>
 <h3 align="center">I’m a recent graduate with a BSc in CSE🎓, passionate about building innovative solutions. I enjoy exploring new technologies 🌐 and applying them to real-world challenges.</h3>
 <img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952ohl3hrmniat6dtgx1gcoikjs9uruz5dwz6banpua&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
