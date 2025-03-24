@@ -1,4 +1,4 @@
-<h1>Hey there 👋, I'm Md. Shahriar Islam Rifat</h1>
+<h1>Assalamu Alaikum 👋, I'm Md. Shahriar Islam Rifat</h1>
 <p>~> I’m a recent graduate with a BSc in CSE🎓, passionate about building innovative solutions. I enjoy exploring new technologies 🌐 and applying them to real-world challenges.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
