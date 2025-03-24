@@ -1,6 +1,6 @@
 <h1 align="center">Hello World👋, I'm Md. Shahriar Islam Rifat</h1>
 <h3 align="center">I’m a recent graduate with a BSc in CSE🎓, passionate about building innovative solutions. I enjoy exploring new technologies 🌐 and applying them to real-world challenges.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriar10rifat&label=Profile%20views&color=0e75b6&style=flat" alt="shahriar10rifat" /> </p>
 
 - 🌱 I’m currently learning **ReactJS & NodeJS**
